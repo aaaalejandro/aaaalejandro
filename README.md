@@ -12,14 +12,14 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro)
 
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
 
 ### Here's my github README stats:
 
