@@ -4,6 +4,13 @@
 ### I'm Alejandro Díaz a Web Developer from Perú.
 
 ### Portfolio: https://aaaalejandro.github.io.
+<br />
+### 👨‍💻 Languages and Tools
+<br />
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/aaaalejandro)](https://github.com/aaaalejandro) 
 <!--
 **aaaalejandro/aaaalejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
