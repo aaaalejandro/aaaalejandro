@@ -1,5 +1,9 @@
 ### Hi there 👋
+![banner](https://github.com/aaaalejandro/aaaalejandro/assets/108237680/bdee91ee-6a1e-41aa-b7f1-70da63e69aa4)
 
+### Hello! I'm Alejandro Díaz a Web Developer from Perú.
+
+### Portfolio:
 <!--
 **aaaalejandro/aaaalejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
